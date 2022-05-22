@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_treatment_treatments_features",
+  "info": {
+    "displayName": "Treatments features",
+    "icon": "bed"
+  },
+  "options": {},
+  "attributes": {
+    "treatment": {
+      "type": "string"
+    }
+  }
+}

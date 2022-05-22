@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stories",
+  "info": {
+    "singularName": "storie",
+    "pluralName": "stories",
+    "displayName": "storie",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "upperBody": {
+      "type": "richtext"
+    },
+    "middleBody": {
+      "type": "richtext"
+    },
+    "lowerBody": {
+      "type": "richtext"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "date": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

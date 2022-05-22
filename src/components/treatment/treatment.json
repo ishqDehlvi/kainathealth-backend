@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_treatment_treatments",
+  "info": {
+    "displayName": "treatment",
+    "icon": "dumpster"
+  },
+  "options": {},
+  "attributes": {
+    "treatment": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_treatment_expertise_areas",
+  "info": {
+    "displayName": "expertiseArea",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "expertiseArea": {
+      "type": "string"
+    }
+  }
+}
